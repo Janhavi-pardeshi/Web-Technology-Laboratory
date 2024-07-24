@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="emp.css" type="text/css"?>
+<?xml-stylesheet href="employee.xsl" type="text/xsl"?> 
+<employees>
+    <info>
+        <name>Trupti Gunjal</name>
+        <age>20</age>
+        <salary>RS.100000</salary>
+        <address>Pune</address>
+        <company>TCS</company>
+    </info>
+    <info>
+        <name>Samiksha Bhuruk</name>
+        <age>21</age>
+        <salary>RS.100000</salary>
+        <address>Nashik</address>
+        <company>ESDS</company>
+    </info>
+     <info>
+        <name>Sakshi Pingale</name>
+        <age>22</age>
+        <salary>RS.100000</salary>
+        <address>Pune</address>
+        <company>Google</company>
+    </info>
+    <info>
+        <name>Priti Gaikwad</name>
+        <age>22</age>
+        <salary>RS.100000</salary>
+        <address>Mumbai</address>
+        <company>TCS</company>
+    </info>
+    <info>
+        <name>Aishwarya Ghumare</name>
+        <age>24</age>
+        <salary>RS.300000</salary>
+        <address>Pune</address>
+        <company>Infosys</company>
+    </info>
+    <info>
+        <name>Janhavi Hingane</name>
+        <age>25</age>
+        <salary>RS.200000</salary>
+        <address>Nagpur</address>
+        <company>Hi Tech</company>
+    </info>
+</employees>
